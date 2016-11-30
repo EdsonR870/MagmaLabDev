@@ -7,23 +7,18 @@ I'm detailing below the steps I did and an aproximation of how much time I spend
 Magma Lab Dev Project
 
 1) GitHub.com - 10 min
+	1.1 - Create an account and familiarize with the tool
 
-  1.1 - Create an account and familiarize with the tool
+2) Prepare Dev environment - 3 hours
+	2.1 - Install Ruby on Rails
+	2.2 - Installation Issues - research
   
-2) Prepare Dev environment - 2 hours
+3) My first page - 1 hour
+	3.1 - Issues with the Puma Server - research, install missing/updated Gems
+	3.2 - Yay! I'm on Rails
+  
+4) Getting Started with Rails - Research -  12 hours
+	4.1 - Basic App - Articles Blog with comments - CRUD,most basic auth,controllers,views,actions,models,SQLite3 basic tables
+	4.2 - Issues with Deleting records - Research
 
-  2.1 - Install Ruby on Rails
-  
-  2.2 - Installation Issues - research
-  
-3) My first basic application - 1 hour
-
-  3.1 - Issues with the Puma Server - research
-  
-  3.2 - Yay! I'm on Rails
-  
-4) Getting Started with Rails - Research -  10 hours
-
-  4.1 - Basic App - Articles with comments - CRUD,most basic auth,controllers,views,actions,models,SQLite3 basic tables
-  
 5) TextileCo App
