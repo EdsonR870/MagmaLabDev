@@ -11,7 +11,7 @@ Magma Lab Dev Project
 
 2) Prepare Dev environment - 3 hours <br>
 	2.1 - Install Ruby on Rails <br>
-	2.2 - Installation Issues - research
+	2.2 - Installation Issues - research, Install Git, SQLite3  <br>
   
 3) My first page - 1 hour <br>
 	3.1 - Issues with the Puma Server - research, install missing/updated Gems <br>
