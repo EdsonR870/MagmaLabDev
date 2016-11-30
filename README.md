@@ -1,4 +1,4 @@
-<b>NOTES:<b> I was asked to complete the exersice using any languaje I knew but instead I Researched the basics of Ruby on Rails, since I thought I might as well learn the basics and do the exercise of TextileCo as the PDF document with the requirements states the technology stack is Rails and Git.
+<b>NOTES:</b> I was asked to complete the exersice using any languaje I knew but instead I Researched the basics of Ruby on Rails, since I thought I might as well learn the basics and do the exercise of TextileCo as the PDF document with the requirements states the technology stack is Rails and Git.
 
 Because of this I didn't do any estimations as I've never used these technologies and also since I currently have a job and my time during office hours is occupied with it and I dedicated whatever spare time I had to this task
 
