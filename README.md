@@ -6,7 +6,7 @@ I'm detailing below the steps I did and an aproximation of how much time I spend
 
 Magma Lab Dev Project
 
-1) GitHub.com - 10 min
+1) GitHub.com - 10 min <br>
 	1.1 - Create an account and familiarize with the tool
 
 2) Prepare Dev environment - 3 hours
