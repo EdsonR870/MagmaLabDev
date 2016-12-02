@@ -22,3 +22,8 @@ Magma Lab Dev Project
 	4.2 - Issues with Deleting records - Research
 
 5) TextileCo App <br>
+	5.1 - Design database structure - 2 hours
+	5.2 - login interface
+	5.3 - User Management
+	5.4 - Schedule Management
+	5.5 - 
